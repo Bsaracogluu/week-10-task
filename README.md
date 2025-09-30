@@ -1,4 +1,4 @@
-# Hafta 1 React Ödevi - Ödeme Formu
+# Hafta 10 React Ödevi - Ödeme Formu
 
 Bu projede, **React** ve **Tailwind CSS** kullanarak bir ödeme formu geliştirilmiştir.  
 Form, verilen görsele birebir uygun olarak tasarlanmıştır ve kullanıcıdan kredi kartı bilgilerini alır.
